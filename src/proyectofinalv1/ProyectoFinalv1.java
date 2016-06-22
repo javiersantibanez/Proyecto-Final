@@ -16,7 +16,7 @@ public class ProyectoFinalv1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        interfaz_Principal a = new interfaz_Principal();
+        Vista_Principal a = new Vista_Principal();
         a.setVisible(true);
     }
     
