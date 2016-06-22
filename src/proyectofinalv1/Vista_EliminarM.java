@@ -43,7 +43,7 @@ public class Vista_EliminarM extends javax.swing.JFrame {
         jLabel2.setText("Numero de Serie:");
 
         jButton2.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jButton2.setText("Salir");
+        jButton2.setText("Atras");
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel6.setText("Elimiar Medicamento:");

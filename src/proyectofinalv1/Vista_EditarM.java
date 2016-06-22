@@ -54,7 +54,7 @@ public class Vista_EditarM extends javax.swing.JFrame {
         jButton1.setText("Aceptar");
 
         jButton2.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jButton2.setText("Salir");
+        jButton2.setText("Atras");
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel3.setText("Nombre:");
